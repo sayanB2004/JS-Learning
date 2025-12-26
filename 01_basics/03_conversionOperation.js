@@ -21,3 +21,14 @@ console.log(booleanIsLoggedIn)
 // "sayan" => true
 
 
+
+// ******************************************************** Operations **************************************************
+
+let value = 3
+let name = "Sayan"
+console.log(name + value + 1) //Sayan31
+console.log(value + 1 + name); //4Sayan
+
+
+
+
