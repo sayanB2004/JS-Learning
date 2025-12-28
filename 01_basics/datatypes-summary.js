@@ -31,6 +31,7 @@ const myFunction = function () {
 console.log(typeof bigNumber);
 console.log(typeof data);
 console.log(typeof myFunction);
+console.log(typeof myFunction);
 
 
 
